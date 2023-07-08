@@ -2,3 +2,5 @@ RESOLUSI saya 2023
 - bisa menguasai memakai app unity
 - mulai paham fundamental cara membuat game di dalam unity
 - memahami logika c# untuk game development
+- menjadi kaya dalam trading
+- bisa membuat pixel art
